@@ -1,0 +1,3 @@
+Babel Installation
+
+npm install babel-cli babel-preset-env --save-dev
